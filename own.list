@@ -5,3 +5,5 @@ DOMAIN-SUFFIX,ip.im
 # grok
 DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,x.ai
+# linux.do
+DOMAIN-SUFFIX,linux.do
