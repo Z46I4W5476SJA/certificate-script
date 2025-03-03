@@ -13,3 +13,6 @@ DOMAIN-SUFFIX,nameless13.com
 DOMAIN-SUFFIX,牛马.icu
 # 插件下载
 DOMAIN-SUFFIX,greasyfork.org
+# claude
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
