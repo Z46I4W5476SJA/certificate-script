@@ -16,3 +16,5 @@ DOMAIN-SUFFIX,greasyfork.org
 # claude
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
+# emby
+DOMAIN-SUFFIX,emby.media
