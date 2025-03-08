@@ -18,3 +18,5 @@ DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
 # emby
 DOMAIN-SUFFIX,emby.media
+# opgg
+DOMAIN-SUFFIX,op.gg
