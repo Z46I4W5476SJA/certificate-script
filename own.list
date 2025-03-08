@@ -1,5 +1,7 @@
 # 内容：自用杂乱规则
 # 数量：xx条
+# nodeseek
+DOMAIN-SUFFIX,nodeseek.com
 # IP测试
 DOMAIN-SUFFIX,ip.im
 # grok
