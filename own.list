@@ -20,3 +20,5 @@ DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,emby.media
 # opgg
 DOMAIN-SUFFIX,op.gg
+# goodreads
+DOMAIN-SUFFIX,goodreads.com
