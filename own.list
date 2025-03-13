@@ -26,3 +26,5 @@ DOMAIN-SUFFIX,emby.media
 DOMAIN-SUFFIX,op.gg
 # goodreads
 DOMAIN-SUFFIX,goodreads.com
+# epic
+DOMAIN-SUFFIX,epicgames.com
