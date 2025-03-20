@@ -1,5 +1,7 @@
 # 内容：自用杂乱规则
 # 数量：xx条
+# 防火墙测试网站
+DOMAIN-SUFFIX,greatfire.org
 # nodeseek
 DOMAIN-SUFFIX,nodeseek.com
 # IP测试
