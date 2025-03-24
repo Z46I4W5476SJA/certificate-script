@@ -1,5 +1,15 @@
 # 内容：自用杂乱规则
 # 数量：xx条
+
+
+# 一元机场
+DOMAIN-SUFFIX,一元机场.art
+# 奶昔机场
+DOMAIN-SUFFIX,nxboom.com
+# 安卓apk软件下载
+DOMAIN-SUFFIX,apkmirror.com
+# typora编辑器
+DOMAIN-SUFFIX,typora.io
 # 防火墙测试网站
 DOMAIN-SUFFIX,greatfire.org
 # nodeseek
