@@ -1,7 +1,8 @@
 # 内容：自用杂乱规则
 # 数量：xx条
 
-
+# 川普社交
+DOMAIN-SUFFIX,truthsocial.com
 # wiki百科
 DOMAIN-SUFFIX,wikipedia.org
 # 一元机场
