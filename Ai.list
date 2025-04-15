@@ -2,7 +2,6 @@
 # AUTHOR: https://t.me/ddgksf2021
 # UPDATED: 2025-04-06 13:11
 
-payload:
 # > Ai general rules
 DOMAIN,api.statsig.com
 DOMAIN,browser-intake-datadoghq.com
