@@ -20,9 +20,9 @@ DOMAIN-SUFFIX,nodeseek.com
 # IP测试
 DOMAIN-SUFFIX,ip.im
 # grok
-DOMAIN-SUFFIX,grok.com
-DOMAIN-SUFFIX,x.ai
-DOMAIN-SUFFIX,x.com
+# DOMAIN-SUFFIX,grok.com
+# DOMAIN-SUFFIX,x.ai
+# DOMAIN-SUFFIX,x.com
 # v2rayssr
 DOMAIN-SUFFIX,v2rayssr.com
 # 花云订阅转换
@@ -34,8 +34,8 @@ DOMAIN-SUFFIX,牛马.icu
 # 插件下载
 DOMAIN-SUFFIX,greasyfork.org
 # claude
-DOMAIN-SUFFIX,anthropic.com
-DOMAIN-SUFFIX,claude.ai
+# DOMAIN-SUFFIX,anthropic.com
+# DOMAIN-SUFFIX,claude.ai
 # emby
 DOMAIN-SUFFIX,emby.media
 # opgg
