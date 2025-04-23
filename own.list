@@ -1,6 +1,8 @@
 # 内容：自用杂乱规则
 # 数量：xx条
 
+# alist教程文档
+DOMAIN,alist.nn.ci
 # icloud历史版本下载
 DOMAIN-SUFFIX,uptodown.com
 # 川普社交
