@@ -2,7 +2,7 @@
 # 数量：xx条
 
 # 七尺宇博客
-DOMAIN,qichiyu.com
+DOMAIN-SUFFIX,qichiyu.com
 # alist教程文档
 DOMAIN,alist.nn.ci
 # icloud历史版本下载
