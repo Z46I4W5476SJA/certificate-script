@@ -15,8 +15,8 @@ printf "${BLUE} 本脚本禁止在国内任何网站转载${NC}\n"
 printf "${GREEN}==========================================================${NC}\n"
 
 # 默认密钥文件路径
-DEFAULT_KEY_FILE="/root/1.key"
-DEFAULT_CERT_FILE="/root/1.crt"
+DEFAULT_KEY_FILE="/etc/ssl/certs/1.crt"
+DEFAULT_CERT_FILE="/etc/ssl/private/1.key"
 
 check_acme_installation() {
     if [ -d "/root/.acme.sh" ]; then
